@@ -10,4 +10,4 @@ for(var i=0; i<students.length;i++;) {
   message += '<h1>'+ student.name +'</h1>';
 }
 
-print.message;
+print(message);
